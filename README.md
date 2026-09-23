@@ -29,6 +29,12 @@ The system monitors several indicators:
 
 VigilEye also performs a short personal calibration when the program starts. This creates an adaptive EAR threshold based on the user's natural eye shape instead of using the same fixed threshold for everyone.
 
+## Demo
+
+### Normal Detection
+
+![VigilEye Normal Detection](screenshots/normal.png)
+
 ## Installation
 
 Install the required dependencies:
