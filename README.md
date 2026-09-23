@@ -4,6 +4,14 @@
 
 VigilEye is a real-time computer vision project designed to detect signs of driver drowsiness using facial landmarks and behavioral indicators.
 
+## Tech Stack
+
+- **Python** - Core programming language
+- **OpenCV** - Real-time video capture and image processing
+- **MediaPipe** - Facial landmark detection
+- **NumPy** - Numerical calculations for EAR and MAR
+- **Pygame** - Audio alarm playback
+
 ## Features
 
 - Real-time facial landmark detection
